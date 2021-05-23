@@ -71,7 +71,7 @@ You can't disable them (yet) but you can hide them. See the `tron-notype` theme.
 On Linux and macOS, eDEX tracks where you're going in your terminal tab to display the content of the current folder on-screen.
 Sadly, this is technically impossible to do on Windows right now, so the file browser reverts back to a "detached" mode. You can still use it to browse files & directories and click on files to input their path in the terminal.
 #### Can this run on a Raspberry Pi / ARM device?
-We provide prebuilt arm64 builds. For other platforms, see [this issue comment](https://github.com/GitSquared/edex-ui/issues/313#issuecomment-443465345), and the thread on issue [#818](https://github.com/GitSquared/edex-ui/issues/818).
+We provide prebuilt arm64 and armv7l builds on the [Releases page](https://github.com/GitSquared/edex-ui/releases).
 #### Is this repo actively maintained?
 [See this notice](https://github.com/GitSquared/edex-ui/issues/769)
 #### How did you make this?
